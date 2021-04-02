@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\radri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\radri\\.nuget\\packages"
+    ]
+  }
+}
